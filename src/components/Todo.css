@@ -1,0 +1,71 @@
+.container{
+    max-width: 500px;
+    margin: 0px auto;
+}
+.inputs{
+    padding: 5px 10px;
+    border: none;
+    background-color: rgb(233, 233, 233);
+    font-size: 20px;
+    border-radius: 5px;
+    width: 96%;
+}
+.checks{
+    margin: 0px 5px;
+}
+.btn{
+    padding: 5px 10px;
+    background-color: rgb(86, 86, 181);
+    color: white;
+    border-radius: 5px;
+}
+.selection{
+    padding: 5px 10px;  
+    border-radius: 5px;
+}
+.container-2{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.datas{
+    display: flex;
+}
+.col-4{
+    width: 33%;
+}
+h1,h2,h3{
+    margin: 0px;
+}
+.cols{
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 5px;
+    margin:10px; 
+    padding: 10px 10px;
+}
+.hobby{
+    background-color: rgb(235, 204, 100);
+    color: white;
+    /* margin: 5px; */
+    padding: 5px;
+
+}
+.hobby1{
+    background-color: rgb(148, 241, 163);
+    color: white;
+    padding: 5px;
+}
+.hobby2{
+    background-color: rgb(178, 222, 246);
+    color: white;
+    padding: 5px;
+}
+.hobby3{
+    background-color: rgb(231, 182, 248);
+    color: white;
+    padding: 5px;
+    /* height: 30px; */
+}
+.none{
+    background-color: transparent;
+    padding: 0px;
+}
